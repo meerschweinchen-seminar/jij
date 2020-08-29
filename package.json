@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "bcrypt": "^3.0.3",
+    "bcrypt": "^5.0.0",
     "dotenv": "^6.2.0",
     "fastify": "^1.13.4",
     "fastify-autoload": "^0.6.0",
